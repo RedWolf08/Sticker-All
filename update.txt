@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/libEGL.dll @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/libGLESv2.dll @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/LICENSE.electron.txt @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/LICENSES.chromium.html @ROOT
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/README.md @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/resources.pak @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/snapshot_blob.bin @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/Stickers-ALL.exe @ROOT
