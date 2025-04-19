@@ -1,20 +1,20 @@
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/chrome_100_percent.pak 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/chrome_200_percent.pak 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/d3dcompiler_47.dll 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/ffmpeg.dll 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/icudtl.dat 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/libEGL.dll 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/libGLESv2.dll 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/LICENSE.electron.txt 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/LICENSES.chromium.html 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/README.md 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/resources.pak 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/snapshot_blob.bin 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/Stickers-ALL.exe 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/v8_context_snapshot.bin 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vk_swiftshader.dll 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vk_swiftshader_icd.json 
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vulkan-1.dll 
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/chrome_100_percent.pak @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/chrome_200_percent.pak @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/d3dcompiler_47.dll @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/ffmpeg.dll @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/icudtl.dat @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/libEGL.dll @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/libGLESv2.dll @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/LICENSE.electron.txt @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/LICENSES.chromium.html @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/README.md @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/resources.pak @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/snapshot_blob.bin @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/Stickers-ALL.exe @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/v8_context_snapshot.bin @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vk_swiftshader.dll @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vk_swiftshader_icd.json @ROOT
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vulkan-1.dll @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/af.pak \locales
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/am.pak \locales
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/ar.pak \locales
