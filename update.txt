@@ -1,4 +1,4 @@
-https://github.com/RedWolf08/Sticker-All/raw/refs/master/.gitattributes \
+https://github.com/RedWolf08/Sticker-All/raw/refs/master/.gitattributes 
 https://github.com/RedWolf08/Sticker-All/raw/refs/master/chrome_100_percent.pak \
 https://github.com/RedWolf08/Sticker-All/raw/refs/master/chrome_200_percent.pak \
 https://github.com/RedWolf08/Sticker-All/raw/refs/master/d3dcompiler_47.dll \
