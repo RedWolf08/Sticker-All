@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/.gitattributes \test
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/chrome_100_percent.pak
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/.gitattributes 
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/chrome_100_percent.pak 
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/chrome_200_percent.pak 
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/d3dcompiler_47.dll 
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/ffmpeg.dll 
