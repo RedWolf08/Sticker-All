@@ -1,21 +1,21 @@
-https://github.com/RedWolf08/Sticker-All/raw/master/.gitattributes \
-https://github.com/RedWolf08/Sticker-All/raw/master/chrome_100_percent.pak \
-https://github.com/RedWolf08/Sticker-All/raw/master/chrome_200_percent.pak \
-https://github.com/RedWolf08/Sticker-All/raw/master/d3dcompiler_47.dll \
-https://github.com/RedWolf08/Sticker-All/raw/master/ffmpeg.dll \
-https://github.com/RedWolf08/Sticker-All/raw/master/icudtl.dat \
-https://github.com/RedWolf08/Sticker-All/raw/master/libEGL.dll \
-https://github.com/RedWolf08/Sticker-All/raw/master/libGLESv2.dll \
-https://github.com/RedWolf08/Sticker-All/raw/master/LICENSE.electron.txt \
-https://github.com/RedWolf08/Sticker-All/raw/master/LICENSES.chromium.html \
-https://github.com/RedWolf08/Sticker-All/raw/master/README.md \
-https://github.com/RedWolf08/Sticker-All/raw/master/resources.pak \
-https://github.com/RedWolf08/Sticker-All/raw/master/snapshot_blob.bin \
-https://github.com/RedWolf08/Sticker-All/raw/master/Stickers-ALL.exe \
-https://github.com/RedWolf08/Sticker-All/raw/master/v8_context_snapshot.bin \
-https://github.com/RedWolf08/Sticker-All/raw/master/vk_swiftshader.dll \
-https://github.com/RedWolf08/Sticker-All/raw/master/vk_swiftshader_icd.json \
-https://github.com/RedWolf08/Sticker-All/raw/master/vulkan-1.dll \
+https://github.com/RedWolf08/Sticker-All/raw/master/.gitattributes 
+https://github.com/RedWolf08/Sticker-All/raw/master/chrome_100_percent.pak 
+https://github.com/RedWolf08/Sticker-All/raw/master/chrome_200_percent.pak 
+https://github.com/RedWolf08/Sticker-All/raw/master/d3dcompiler_47.dll 
+https://github.com/RedWolf08/Sticker-All/raw/master/ffmpeg.dll 
+https://github.com/RedWolf08/Sticker-All/raw/master/icudtl.dat 
+https://github.com/RedWolf08/Sticker-All/raw/master/libEGL.dll 
+https://github.com/RedWolf08/Sticker-All/raw/master/libGLESv2.dll 
+https://github.com/RedWolf08/Sticker-All/raw/master/LICENSE.electron.txt 
+https://github.com/RedWolf08/Sticker-All/raw/master/LICENSES.chromium.html 
+https://github.com/RedWolf08/Sticker-All/raw/master/README.md 
+https://github.com/RedWolf08/Sticker-All/raw/master/resources.pak 
+https://github.com/RedWolf08/Sticker-All/raw/master/snapshot_blob.bin 
+https://github.com/RedWolf08/Sticker-All/raw/master/Stickers-ALL.exe 
+https://github.com/RedWolf08/Sticker-All/raw/master/v8_context_snapshot.bin 
+https://github.com/RedWolf08/Sticker-All/raw/master/vk_swiftshader.dll 
+https://github.com/RedWolf08/Sticker-All/raw/master/vk_swiftshader_icd.json 
+https://github.com/RedWolf08/Sticker-All/raw/master/vulkan-1.dll 
 https://github.com/RedWolf08/Sticker-All/raw/master/.git/COMMIT_EDITMSG \.git
 https://github.com/RedWolf08/Sticker-All/raw/master/.git/config \.git
 https://github.com/RedWolf08/Sticker-All/raw/master/.git/description \.git
