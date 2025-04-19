@@ -15,8 +15,8 @@ https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/v8_context_snapsh
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vk_swiftshader.dll @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vk_swiftshader_icd.json @ROOT
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/vulkan-1.dll @ROOT
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/af.pak locales
-https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/am.pak locales
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/af.pak \locales
+https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/am.pak \locales
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/ar.pak \locales
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/bg.pak \locales
 https://raw.githubusercontent.com/RedWolf08/Sticker-All/master/locales/bn.pak \locales
